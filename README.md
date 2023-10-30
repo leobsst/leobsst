@@ -1,8 +1,8 @@
 # LEOBSST - Software developer
 
 <p align="center">
-  <a href="https://github.com/leobsst/leobsst/README.md">🇬🇧</a>
-  <a href="https://github.com/leobsst/leobsst/README_fr.md">🇫🇷</a>
+  <a href="README.md">🇬🇧</a>
+  <a href="README_fr.md">🇫🇷</a>
 </p>
 
 - 💻 Full-stack software developer in web and application technologies with APIs.
