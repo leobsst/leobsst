@@ -23,7 +23,7 @@ My experience and skills have enabled me to carry out projects such as:
 - **Tools** : Git, Docker, Vite
 - Server management
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight" />
 </p>
 
