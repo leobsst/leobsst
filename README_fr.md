@@ -5,28 +5,28 @@
   <a href="README_fr.md">🇫🇷</a>
 </p>
 
-- 💻 Développeur Full-Stack en technologies web et mobile avec API
-- 📊 Progress and learning new things are what motivate me.
-- 🦾 I never shy away from a challenge, always ready to surpass myself !
+- 💻 Développeur Full-Stack en technologies web et mobile avec API.
+- 📊 Le progrès et l'apprentissage de nouvelles choses sont mes motivations.
+- 🦾 Je ne recule devant aucun défi, toujours prêt à me surpasser !
 
-I love discovering new things every day, the digital world is so exciting and interesting. Imagination can be endless and limitless. Every new line of code written in the world is another step towards technological innovation, whether it's relevant or not. I thrive on the knowledge the world can bring us, and the satisfaction we get when we succeed in our projects. So do as I do, don't be afraid of the unknown and dive into the great world of IT!
+J'adore découvrir de nouvelles choses chaque jour, le monde numérique est tellement passionnant et intéressant. L'imagination peut être infinie et sans limite. Chaque nouvelle ligne de code écrite dans le monde est un pas de plus vers l'innovation technologique, qu'elle soit pertinente ou non. Je me nourris des connaissances que le monde peut nous apporter et de la satisfaction que nous éprouvons lorsque nous réussissons nos projets. Alors faites comme moi, n'ayez pas peur de l'inconnu et plongez dans le grand monde de l'informatique !
 
-## My projects
+## Mes projets
 
-My experience and skills have enabled me to carry out projects such as:
+Mon expérience et mes compétences m'ont permis de réaliser des projets tels que :
 
-- [Links](https:/links.leobsst.fr): Create your own public page with all your most important links and social networks, plus a link shortener.
-- [MonopolyBank](https://monopolybank.leobsst.fr): Tired of losing your monopoly tickets? This web application lets you play with your friends simply using their phones, so you don't have to use tickets for your board games.
-- [DogZenParadise](https://dogzenparadise.com): A simple blog site for a canine hydrotherapy reeducation company with a fresh, homemade CMS.
+- [Links](https:/links.leobsst.fr) : Créez votre propre page publique avec tous vos liens et réseaux sociaux les plus importants, ainsi qu'un raccourcisseur de liens.
+- [MonopolyBank](https://monopolybank.leobsst.fr) : Vous en avez assez de perdre vos billets de Monopoly ? Cette application web vous permet de jouer avec vos amis en utilisant simplement votre téléphone. Vous n'avez donc plus besoin d'utiliser des billets pour vos parties.
+- [DogZenParadise](https://dogzenparadise.com) : Un simple site de blog pour une société de rééducation par l'hydrothérapie canine avec un CMS tout frais fait maison.
 
-## Skills
+## Compétences
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight" />
 
-- **Languages** : PHP, JavaScript, Typescript, Python, Javan, HTML (Just kidding, it's not a programming language) :)
+- **Langages** : PHP, JavaScript, Typescript, Python, Javan, HTML (Je plaisante, ce n'est pas un langage de programmation.) :)
 - **Frameworks** : Symfony, Angular, React, Laravel, Ionic.
 - **Frameworks utility-fist CSS**: TailwindCSS, Bootstrap (please stop using it !)
-- **Databases** : MariaDB
-- **Tools** : Git, Docker, Vite, Figma
-- Server management
+- **Bases de données** : MariaDB
+- **Outils** : Git, Docker, Vite, Figma
+- Gestion de serveurs
 
