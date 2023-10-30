@@ -16,9 +16,7 @@ My experience and skills have enabled me to carry out projects such as:
 
 ## Skills
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight" />
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight" />
 
 - **Languages** : PHP, JavaScript, Typescript, Python, Javan, HTML (Just kidding, it's not a programming language) :)
 - **Frameworks** : Symfony, Angular, React, Laravel, Ionic.
