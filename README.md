@@ -22,6 +22,6 @@ My experience and skills have enabled me to carry out projects such as:
 - **Frameworks** : Symfony, Angular, React, Laravel, Ionic.
 - **Frameworks utility-fist CSS**: TailwindCSS, Bootstrap (please stop using it !)
 - **Databases** : MariaDB
-- **Tools** : Git, Docker, Vite
+- **Tools** : Git, Docker, Vite, Figma
 - Server management
 
