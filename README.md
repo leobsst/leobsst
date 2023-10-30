@@ -23,4 +23,4 @@ My experience and skills have enabled me to carry out projects such as:
 - **Tools** : Git, Docker, Vite
 - Server management
 
-[![LEOBSST's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight)]
+[LEOBSST's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight)
