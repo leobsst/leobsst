@@ -14,7 +14,11 @@ My experience and skills have enabled me to carry out projects such as:
 - [MonopolyBank](https://monopolybank.leobsst.fr): Tired of losing your monopoly tickets? This web application lets you play with your friends simply using their phones, so you don't have to use tickets for your board games.
 - [DogZenParadise](https://dogzenparadise.com): A simple blog site for a canine hydrotherapy reeducation company with a fresh, homemade CMS.
 
-## Skills 
+## Skills
+
+<div align="right">
+![LEOBSST's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight)
+</div>
 
 - **Languages** : PHP, JavaScript, Typescript, Python, Javan, HTML (Just kidding, it's not a programming language) :)
 - **Frameworks** : Symfony, Angular, React, Laravel, Ionic.
@@ -22,5 +26,3 @@ My experience and skills have enabled me to carry out projects such as:
 - **Databases** : MariaDB
 - **Tools** : Git, Docker, Vite
 - Server management
-
-![LEOBSST's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight)
