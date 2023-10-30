@@ -19,10 +19,12 @@ My experience and skills have enabled me to carry out projects such as:
 ![LEOBSST's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight)
 
 <p align="left">
+  
 - **Languages** : PHP, JavaScript, Typescript, Python, Javan, HTML (Just kidding, it's not a programming language) :)
 - **Frameworks** : Symfony, Angular, React, Laravel, Ionic.
 - **Frameworks utility-fist CSS**: TailwindCSS, Bootstrap (please stop using it !)
 - **Databases** : MariaDB
 - **Tools** : Git, Docker, Vite
 - Server management
+- 
 </p>
