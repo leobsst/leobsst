@@ -1,9 +1,11 @@
 # LEOBSST - Software developer
 
 <p align="center">
+  
   [🇬🇧](https://github.com/leobsst/leobsst/README.md)
-  [🇫🇷]([README_FR.md](https://github.com/leobsst/leobsst/README_fr.md))
-</>
+  [🇫🇷]([README_FR.md](https://github.com/leobsst/leobsst/README_fr.md)
+  
+</p>
 
 - 💻 Full-stack software developer in web and application technologies with APIs.
 - 📊 Progress and learning new things are what motivate me.
