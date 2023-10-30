@@ -1,5 +1,9 @@
 # LEOBSST - Software developer
 
+<p align="center">
+  [🇬🇧](/) [🇫🇷](README_FR.md)
+</>
+
 - 💻 Full-stack software developer in web and application technologies with APIs.
 - 📊 Progress and learning new things are what motivate me.
 - 🦾 I never shy away from a challenge, always ready to surpass myself !
