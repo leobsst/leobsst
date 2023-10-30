@@ -5,7 +5,7 @@
   <a href="README_fr.md">🇫🇷</a>
 </p>
 
-- 💻 Développeur Full-Stack en technologies web et mobiles et en APIs
+- 💻 Développeur Full-Stack en technologies web et mobile avec API
 - 📊 Progress and learning new things are what motivate me.
 - 🦾 I never shy away from a challenge, always ready to surpass myself !
 
