@@ -16,8 +16,6 @@ My experience and skills have enabled me to carry out projects such as:
 
 ## Skills
 
-![LEOBSST's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight)
-
 <p align="left">
   
 - **Languages** : PHP, JavaScript, Typescript, Python, Javan, HTML (Just kidding, it's not a programming language) :)
@@ -26,5 +24,8 @@ My experience and skills have enabled me to carry out projects such as:
 - **Databases** : MariaDB
 - **Tools** : Git, Docker, Vite
 - Server management
-- 
+
 </p>
+
+![LEOBSST's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight)
+
