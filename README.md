@@ -1,4 +1,4 @@
-# LEOBSST - Web developper
+# LEOBSST - Software developer
 
 - 💻 Full-stack software developer in web and application technologies with APIs.
 - 📊 Progress and learning new things are what motivate me.
