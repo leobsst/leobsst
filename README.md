@@ -5,7 +5,7 @@
   <a href="README_fr.md">🇫🇷</a>
 </p>
 
-- 💻 Full-stack software developer in web and application technologies with APIs.
+- 💻 Full-stack software developer in web and mobile technologies with APIs.
 - 📊 Progress and learning new things are what motivate me.
 - 🦾 I never shy away from a challenge, always ready to surpass myself !
 
