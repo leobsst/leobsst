@@ -24,6 +24,6 @@ My experience and skills have enabled me to carry out projects such as:
 - Server management
 
 <p align="center">
-  ![LEOBSST's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight" />
 </p>
 
