@@ -15,7 +15,7 @@ I love discovering new things every day, the digital world is so exciting and in
 
 My experience and skills have enabled me to carry out projects such as:
 
-- [Links](https:/links.leobsst.fr): Create your own public page with all your most important links and social networks, plus a link shortener.
+- [Links](https://linksly.fr): Create your own public page with all your most important links and social networks, plus a link shortener.
 - [MonopolyBank](https://monopolybank.leobsst.fr): Tired of losing your monopoly bills? This web application lets you play with your friends simply using your phones, so you don't have to use bills for your parties.
 - [DogZenParadise](https://dogzenparadise.com): A simple blog site for a canine hydrotherapy reeducation company with a fresh, homemade CMS.
 
