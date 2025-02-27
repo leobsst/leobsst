@@ -18,16 +18,17 @@ My experience and skills have enabled me to carry out projects such as:
 - [Links](https://linksly.fr): Create your own public page with all your most important links and social networks, plus a link shortener.
 - [MonopolyBank](https://monopolybank.leobsst.fr): Tired of losing your monopoly bills? This web application lets you play with your friends simply using your phones, so you don't have to use bills for your parties.
 - [DogZenParadise](https://www.dogzenparadise.com): A simple blog site for a canine hydrotherapy reeducation company with a fresh, homemade CMS.
-- [Flux de flammes](https://www.fluxdeflammes.fr/): A Simple blog site for an energetician.
+- [Flux de flammes](https://www.fluxdeflammes.fr/): A Simple blog site for an energetician, with a fresh, homemade CMS.
 
 ## Skills
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight" />
 
-- **Languages** : PHP, JavaScript, Typescript, Python, Javan, HTML (Just kidding, it's not a programming language) :)
-- **Frameworks** : Symfony, Angular, React, Laravel, Ionic.
+- **Languages**: PHP, JavaScript, Typescript, Python, Javan, HTML (Just kidding, it's not a programming language) :)
+- **Frameworks**: Symfony, Laravel, Ionic.
+- **Libraries**: Angular, React
 - **Frameworks utility-fist CSS**: TailwindCSS, Bootstrap (please stop using it !)
-- **Databases** : MariaDB
-- **Tools** : Git, Docker, Vite, Figma
+- **Databases**: MariaDB
+- **Tools**: Git, Docker, Vite, Figma
 - Server management
 
