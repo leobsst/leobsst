@@ -15,16 +15,18 @@ J'adore découvrir de nouvelles choses chaque jour, le monde numérique est tell
 
 Mon expérience et mes compétences m'ont permis de réaliser des projets tels que :
 
-- [Links](https://linkskly.fr) : Créez votre propre page publique avec tous vos liens et réseaux sociaux les plus importants, ainsi qu'un raccourcisseur de liens.
+- [Links](https://www.linkskly.fr) : Créez votre propre page publique avec tous vos liens et réseaux sociaux les plus importants, ainsi qu'un raccourcisseur de liens.
 - [MonopolyBank](https://monopolybank.leobsst.fr) : Vous en avez assez de perdre vos billets de Monopoly ? Cette application web vous permet de jouer avec vos amis en utilisant simplement votre téléphone. Vous n'avez donc plus besoin d'utiliser des billets pour vos parties.
-- [DogZenParadise](https://dogzenparadise.com) : Un simple site de blog pour une société de rééducation par l'hydrothérapie canine avec un CMS tout frais fait maison.
+- [DogZenParadise](https://www.dogzenparadise.com) : Un simple site de blog pour une société de rééducation par l'hydrothérapie canine avec un CMS tout frais, fait maison.
+- [Flux de flammes](https:://www.fluxdeflammes.fr) : Un simple site de blog pour une énergéticienne avec un CMS tout frais, fait maison.
 
 ## Compétences
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LEOBSST&show_icons=true&hide=prs&theme=tokyonight" />
 
 - **Langages** : PHP, JavaScript, Typescript, Python, Javan, HTML (Je plaisante, ce n'est pas un langage de programmation.) :)
-- **Frameworks** : Symfony, Angular, React, Laravel, Ionic.
+- **Frameworks** : Symfony, Laravel, Ionic.
+- **Librairies** : Angular, React
 - **Frameworks utility-fist CSS**: TailwindCSS, Bootstrap (please stop using it !)
 - **Bases de données** : MariaDB
 - **Outils** : Git, Docker, Vite, Figma
