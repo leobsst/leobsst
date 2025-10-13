@@ -17,8 +17,9 @@ Mon expérience et mes compétences m'ont permis de réaliser des projets tels q
 
 - [Links](https://www.linkskly.fr) : Créez votre propre page publique avec tous vos liens et réseaux sociaux les plus importants, ainsi qu'un raccourcisseur de liens.
 - [MonopolyBank](https://monopolybank.leobsst.fr) : Vous en avez assez de perdre vos billets de Monopoly ? Cette application web vous permet de jouer avec vos amis en utilisant simplement votre téléphone. Vous n'avez donc plus besoin d'utiliser des billets pour vos parties.
-- [DogZenParadise](https://www.dogzenparadise.com) : Un simple site de blog pour une société de rééducation par l'hydrothérapie canine avec un CMS tout frais, fait maison.
+- DogZenParadise : Un simple site de blog pour une société de rééducation par l'hydrothérapie canine avec un CMS tout frais, fait maison.
 - [Flux de flammes](https:://www.fluxdeflammes.fr) : Un simple site de blog pour une énergéticienne avec un CMS tout frais, fait maison.
+- [Messagers chuchoteurs](https:://messagerschuchoteurs.com) : Un simple site de blog pour une énergéticienne avec un CMS tout frais, fait maison.
 
 ## Compétences
 
