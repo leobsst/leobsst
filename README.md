@@ -20,6 +20,7 @@ My experience and skills have enabled me to carry out projects such as:
 - DogZenParadise: A simple blog site for a canine hydrotherapy reeducation company with a fresh, homemade CMS.
 - [Flux de flammes](https://www.fluxdeflammes.fr/): A Simple blog site for an energetician, with a fresh, homemade CMS.
 - [Messagers chuchoteurs](https://messagerschuchoteurs.com/): A Simple blog site for an energetician, with a fresh, homemade CMS.
+- [Satis Manager](https://github.com/leobsst/satis-manager): A private composer repository managed by Satis powered with the Laravel Framework.
 
 ## Skills
 
